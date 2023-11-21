@@ -1,3 +1,6 @@
 Mensagem para o Aluno2 - Me diga 3 raças de cachorro.
+Yorkshire
+Husky
+Pinscher
 
 Mensagem para o Aluno3 - Me diga 4 raças de gato.
